@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wegalauf on My New Hugo Site</title>
+    <title>Wegalauf</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Wegalauf on My New Hugo Site</description>
+    <description>Recent content on Wegalauf</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>de-CH</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abmeldungen</title>
+      <link>http://localhost:1313/information/13_abmeldungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/13_abmeldungen/</guid>
+      <description>Das Startgeld wird nicht zurück erstattet.</description>
+    </item>
+    <item>
+      <title>Anmeldung</title>
+      <link>http://localhost:1313/information/01_anmeldung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/01_anmeldung/</guid>
+      <description>Online-Anmeldung unter wegalauf.ch</description>
+    </item>
+    <item>
+      <title>Kategorien</title>
+      <link>http://localhost:1313/kategorien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kategorien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nachmeldung</title>
+      <link>http://localhost:1313/information/05_nachmeldung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/05_nachmeldung/</guid>
+      <description>Am Wettkampftag ist eine Nachmeldung (Hinterhof Restaurant Trauben) bis spätestens eine Stunde vor dem Start der jeweiligen Kategorie gegen einen Aufschlag von CHF 5.00 möglich.</description>
+    </item>
+    <item>
+      <title>Startnummernausgabe</title>
+      <link>http://localhost:1313/information/10_startnummernausgabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/10_startnummernausgabe/</guid>
+      <description>Ab 9.45 Uhr im Hinterhof Restaurant Trauben, bis eine Stunde vor dem Start der entsprechenden Kategorien.</description>
+    </item>
+    <item>
+      <title>Versicherung</title>
+      <link>http://localhost:1313/information/17_versicherung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/17_versicherung/</guid>
+      <description>Versicherung ist Sache der Teilnehmer. Der Veranstalter lehnt jede Haftung ab.</description>
+    </item>
   </channel>
 </rss>

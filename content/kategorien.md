@@ -1,0 +1,4 @@
+---
+slug: kategorien
+title: Kategorien
+---

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informationen on Wegalauf</title>
+    <link>http://localhost:1313/information/</link>
+    <description>Recent content in Informationen on Wegalauf</description>
+    <generator>Hugo</generator>
+    <language>de-CH</language>
+    <atom:link href="http://localhost:1313/information/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abmeldungen</title>
+      <link>http://localhost:1313/information/13_abmeldungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/13_abmeldungen/</guid>
+      <description>Das Startgeld wird nicht zurück erstattet.</description>
+    </item>
+    <item>
+      <title>Anmeldeschluss</title>
+      <link>http://localhost:1313/information/02_anmeldeschluss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/02_anmeldeschluss/</guid>
+      <description>Mittwoch, 25. September 2024</description>
+    </item>
+    <item>
+      <title>Anmeldung</title>
+      <link>http://localhost:1313/information/01_anmeldung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/01_anmeldung/</guid>
+      <description>Online-Anmeldung unter wegalauf.ch</description>
+    </item>
+    <item>
+      <title>Auskunft</title>
+      <link>http://localhost:1313/information/06_auskunft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/06_auskunft/</guid>
+      <description>Email: wegalauf@gmail.com</description>
+    </item>
+    <item>
+      <title>Auszeichnung und Preise</title>
+      <link>http://localhost:1313/information/15_auszeichnung_preise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/15_auszeichnung_preise/</guid>
+      <description>Wer den Lauf in der vorgeschriebenen Zeit beendet, erhält nach dem Zieleinlauf gegen Vorweisung der Startnummer ein {{site.title}} T-Shirt.</description>
+    </item>
+    <item>
+      <title>Familien Rangierung</title>
+      <link>http://localhost:1313/information/08_familienrangierung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/08_familienrangierung/</guid>
+      <description>Es wird eine Familienrangliste erstellt, keine Einzelrangliste. Der Lauf muss nicht geschlossen beendet werden. Für die Rangierung zählt die Addition der 3 besten Laufzeiten. Alle Familien erhalten einen Preis.</description>
+    </item>
+    <item>
+      <title>Familienkategorie</title>
+      <link>http://localhost:1313/information/07_familienkategorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/07_familienkategorie/</guid>
+      <description>Startberechtigt sind Familien ab drei Familienmitgliedern. Für das Startgeld von CHF 42.00 sind fünf Personen startberechtigt, für jedes weitere Familienmitglied wird CHF 5.00 verrechnet. Mindestens ein Elternteil muss mitlaufen.</description>
+    </item>
+    <item>
+      <title>Garderoben</title>
+      <link>http://localhost:1313/information/11_garderoben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/11_garderoben/</guid>
+      <description>In der neuen Turnhalle des Thomas-Bornhauser-Schulhauses.</description>
+    </item>
+    <item>
+      <title>Nachmeldung</title>
+      <link>http://localhost:1313/information/05_nachmeldung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/05_nachmeldung/</guid>
+      <description>Am Wettkampftag ist eine Nachmeldung (Hinterhof Restaurant Trauben) bis spätestens eine Stunde vor dem Start der jeweiligen Kategorie gegen einen Aufschlag von CHF 5.00 möglich.</description>
+    </item>
+    <item>
+      <title>Personalisierte Startnummer</title>
+      <link>http://localhost:1313/information/03_personalisierte_startnummer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/03_personalisierte_startnummer/</guid>
+      <description>Erfolgt Ihre Anmeldung bis zum 18. September 2024, wird die Startnummer personalisiert.</description>
+    </item>
+    <item>
+      <title>Ranglisten</title>
+      <link>http://localhost:1313/information/14_ranglisten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/14_ranglisten/</guid>
+      <description>Rangliste 2024 oder my.raceresult.com</description>
+    </item>
+    <item>
+      <title>Rangverkündigung</title>
+      <link>http://localhost:1313/information/12_rangverk%C3%BCndigung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/12_rangverk%C3%BCndigung/</guid>
+      <description>Die Rangverkündigungen finden bei der TKB-Bühne statt (gemäss Zeitplan).</description>
+    </item>
+    <item>
+      <title>Sanität</title>
+      <link>http://localhost:1313/information/16_sanitaet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/16_sanitaet/</guid>
+      <description>Samariterverein Weinfelden</description>
+    </item>
+    <item>
+      <title>Startnummernausgabe</title>
+      <link>http://localhost:1313/information/10_startnummernausgabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/10_startnummernausgabe/</guid>
+      <description>Ab 9.45 Uhr im Hinterhof Restaurant Trauben, bis eine Stunde vor dem Start der entsprechenden Kategorien.</description>
+    </item>
+    <item>
+      <title>Versicherung</title>
+      <link>http://localhost:1313/information/17_versicherung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/17_versicherung/</guid>
+      <description>Versicherung ist Sache der Teilnehmer. Der Veranstalter lehnt jede Haftung ab.</description>
+    </item>
+    <item>
+      <title>Wertsachen</title>
+      <link>http://localhost:1313/information/19_wertsachen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/19_wertsachen/</guid>
+      <description>Nur was in einem C4-Couvert platz findet kann bei Anmeldestand abgegeben werden.</description>
+    </item>
+    <item>
+      <title>Zeitmessung</title>
+      <link>http://localhost:1313/information/18_zeitmessung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/18_zeitmessung/</guid>
+      <description>Race Result{:target=&amp;quot;_blank&amp;quot;}</description>
+    </item>
+  </channel>
+</rss>
